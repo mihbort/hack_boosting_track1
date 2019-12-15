@@ -1,5 +1,10 @@
 # hack_boosting_track1
-## Solution of the Team (Бюстинг Случайного Лепса)
+## Solution of the Team BSG (Бюстинг Случайного Лепса)
+
+**Final Solution see in the notebooks**:
+
+- `busting_leps_prediction_1.1.ipynb` -- segmentation
+- `NeuralStyleTransfer_seismic.ipynb` -- style transfer for data generation
 
 ## Our Framework:
 
